@@ -44,7 +44,47 @@ El usuario necesita una ficha automática de mercado y entorno por cada inmueble
 ¿Cómo podríamos ayudar al equipo de inversión de Venture One a generar un tablero que consolide los datos de mercado y entorno, para agilizar y estandarizar sus decisiones de compra de inmuebles?
 
 ### 4. Ideación
+Usando la método SCAMPER para la ideación de una solución a nuestro problema, tenemos lo siguiente:
+
+#### S - Sustituir 
+¿Qué cambiaríamos?
+- Cambiar el trabajo manual: En vez de buscar casa por casa en internet y tomar capturas de pantalla, podemos usar un código en Python (en Google Colab) que lea el archivo CSV y lo junte con los mapas.
+- Cambiar la diversificación por la estandarización: En lugar de que cada persona decida si la casa es buena a su manera, podemos crear una fórmula que puntúe cada inmueble para saber si es buena inversión.
+- Cambiar el Excel por un tablero: Dejar de usar hojas de cálculo y crear un dashboard que muestre todo de forma ordenada.
+
+#### C - Combinar 
+¿Qué uniríamos?
+- Juntar los precios con los mapas: Poner en una sola pantalla los datos de las casas (precio, área, habitaciones) junto con los mapas de Medellín (estaciones de metro, parques, normas del POT). 
+- Juntar precios para comparar: Usar el archivo extra de otras plataformas para comparar si el precio de la casa que estamos viendo es caro o barato frente al resto del mercado.
+
+#### A - Adaptar 
+¿Qué adaptaríamos de otros lados?
+- Copiar la idea de las estrellas: Como cuando calificas un restaurante o un celular, podemos ponerle estrellas o un semáforo a cada casa según qué tan buena sea para invertir.
+- Copiar la idea de Google Maps: Hacer un mapa interactivo donde puedas hacer clic en una ubicación y automáticamente se abra una ventanita con toda su información y si tiene problemas con las normas.
+- Copiar la idea de un "chequeo médico": Hacer una ficha donde le digamos al inversionista qué datos le faltan a esa casa y qué riesgos tiene.
+
+#### M - Modificar 
+¿Qué le modificaríamos?
+
 **FALTANTE**
+
+#### P - Proponer otros usos 
+¿A quién más le sirve? 
+- Para los aliados: Darles una versión sencilla para que ellos mismos revisen si la casa que nos quieren vender cumple con lo básico antes de enviárnosla.
+- Para los compradores: Usar la información del mapa (como la cercanía al metro) como un folleto para convencer a los clientes de comprar la casa ya renovada.
+- Para los jefes: Usar el tablero como un reporte para mostrar cuántas oportunidades analizamos a la semana y cuántas descartamos.
+
+#### E - Eliminar 
+¿Qué quitaríamos?
+- Quitar los duplicados: Hacer que el código detecte y borre automáticamente las casas que están repetidas en diferentes anuncios.
+- Quitar el copiar y pegar: Dejar de buscar a mano en los portales y usar solo los archivos base que nos dieron para trabajar más rápido.
+- Quitar las minucias: En el tablero, quitar toda la información aburrida del anuncio y dejar solo lo importante (precio, área, si se puede construir, cercanía al transporte).
+
+#### R - Reorganizar 
+¿Qué cambiaríamos de orden?
+- Cambiar el orden de los pasos: En vez de buscar, luego pegar en Excel y luego analizar, el nuevo orden sería: 1. Subir los datos, 2. El código los limpia y les pone nota, 3. El tablero nos muestra solo los que sirven.
+- Organizar por problemas: En vez de ver el tablero como una lista interminable de casas, separarlo por pestañas: "Casas con datos incompletos", "Casas con problemas de normas", y "Mejores oportunidades". Así es más fácil saber qué revisar primero.
+
 
 ### 5. La propuesta de MVP
 **FALTANTE**
