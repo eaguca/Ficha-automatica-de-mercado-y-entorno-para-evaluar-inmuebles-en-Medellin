@@ -65,8 +65,8 @@ Usando la método SCAMPER para la ideación de una solución a nuestro problema,
 
 #### M - Modificar 
 ¿Qué le modificaríamos?
-
-**FALTANTE**
+- Clasificar la información en Base de Datos para una búsqueda de inmuebles más eficiente y segura 
+- Realizar una actualización con  precios reales del inmueble, de acuerdo a lo que demanda el mercado.
 
 #### P - Proponer otros usos 
 ¿A quién más le sirve? 
