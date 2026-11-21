@@ -1,0 +1,26 @@
+FICHA DE MERCADO Y ENTORNO                                               INM-05 · 2026-11-21
+────────────────────────────────────────────────────────────────────────────────────────────
+INMUEBLE   Sin dirección · Bombona No1, medellin
+           67 m² · Estado: por_remodelar ("Remodelar")
+           Ubicación: 6.244064, -75.56236 (precisión: barrio)
+
+MERCADO    Precio/m² de comparables en estado por_remodelar
+           Mediana $4.666.667   Rango $3.081.395 – $6.666.667
+           Comparables: 11    Dispersión (CV): 0.1927
+           CONFIANZA: MEDIA  →  11 comparables (mínimo 3) y coeficiente de variación 19.27% (máximo 25%)
+
+           Contexto de la zona (mediana por estado):
+           remodelado sin dato (n=0) · habitable $3.909.091 (n=15) · por remodelar $4.666.667 (n=17)
+
+ENTORNO    Radio de búsqueda: 800 m   (aproximado)
+           Estación más cercana: Pabellón del agua EPM (tranvia) a 174 m
+           Estaciones en el radio: 3
+           Equipamientos en el radio: educación 54 · salud 12 · parques 19
+                                      abastecimiento 8 · seguridad 1 · cultura 10
+
+NORMA      Tratamiento POT: pendiente_capa  Falta el archivo data/geo/pot_tratamientos.geojson
+
+CALIDAD    Zona: 82 anuncios · 28 duplicados · 33 válidos · inválidos: {'estado_sin_clasificar': 20, 'sin_area': 1}
+           Datos faltantes: direccion, coordenadas_exactas, fecha_publicacion_comparables, precios_de_cierre
+────────────────────────────────────────────────────────────────────────────────────────────
+Fuentes: datos/originales/anuncios_muestra.csv, OpenStreetMap (ODbL) · Parámetros v1.0 · OSM 2026-11-13T23:03:06Z

@@ -1,0 +1,26 @@
+FICHA DE MERCADO Y ENTORNO                                               INM-04 · 2026-11-21
+────────────────────────────────────────────────────────────────────────────────────────────
+INMUEBLE   Calle 37 con Cra 33B · El Salvador, medellin
+           71 m² · Estado: habitable ("OK")
+           Ubicación: 6.234861, -75.560101 (precisión: cruce)
+
+MERCADO    Precio/m² de comparables en estado habitable
+           Mediana $4.375.000   Rango $3.828.125 – $6.615.385
+           Comparables: 9    Dispersión (CV): 0.2357
+           CONFIANZA: MEDIA  →  9 comparables (mínimo 3) y coeficiente de variación 23.57% (máximo 25%)
+
+           Contexto de la zona (mediana por estado):
+           remodelado sin dato (n=0) · habitable $3.909.091 (n=15) · por remodelar $4.708.333 (n=18)
+
+ENTORNO    Radio de búsqueda: 800 m   
+           Estación más cercana: Buenos Aires (tranvia) a 1000 m
+           Estaciones en el radio: 0
+           Equipamientos en el radio: educación 22 · salud 2 · parques 12
+                                      abastecimiento 1 · seguridad 1 · cultura 0
+
+NORMA      Tratamiento POT: pendiente_capa  Falta el archivo data/geo/pot_tratamientos.geojson
+
+CALIDAD    Zona: 82 anuncios · 28 duplicados · 33 válidos · inválidos: {'estado_sin_clasificar': 20, 'sin_area': 1}
+           Datos faltantes: fecha_publicacion_comparables, precios_de_cierre
+────────────────────────────────────────────────────────────────────────────────────────────
+Fuentes: datos/originales/anuncios_muestra.csv, OpenStreetMap (ODbL) · Parámetros v1.0 · OSM 2026-11-13T23:03:06Z

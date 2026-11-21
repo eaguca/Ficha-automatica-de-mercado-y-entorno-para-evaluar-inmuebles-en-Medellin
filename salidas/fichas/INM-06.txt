@@ -1,0 +1,26 @@
+FICHA DE MERCADO Y ENTORNO                                               INM-06 · 2026-11-21
+────────────────────────────────────────────────────────────────────────────────────────────
+INMUEBLE   Sin dirección · la castellana, medellin
+           90 m² · Estado: remodelado ("REMODELADO")
+           Ubicación: 6.240226, -75.605418 (precisión: barrio)
+
+MERCADO    Precio/m² de comparables en estado remodelado
+           Mediana $6.729.529   Rango $5.402.174 – $8.700.000
+           Comparables: 6    Dispersión (CV): 0.17
+           CONFIANZA: MEDIA  →  6 comparables (mínimo 3) y coeficiente de variación 17.00% (máximo 25%)
+
+           Contexto de la zona (mediana por estado):
+           remodelado $6.729.529 (n=6) · habitable $6.463.980 (n=6) · por remodelar sin dato (n=0)
+
+ENTORNO    Radio de búsqueda: 800 m   (aproximado)
+           Estación más cercana: Santa Lucía (metro) a 1994 m
+           Estaciones en el radio: 0
+           Equipamientos en el radio: educación 23 · salud 6 · parques 11
+                                      abastecimiento 13 · seguridad 1 · cultura 5
+
+NORMA      Tratamiento POT: pendiente_capa  Falta el archivo data/geo/pot_tratamientos.geojson
+
+CALIDAD    Zona: 16 anuncios · 3 duplicados · 13 válidos · inválidos: ninguno
+           Datos faltantes: direccion, coordenadas_exactas, fecha_publicacion_comparables, precios_de_cierre
+────────────────────────────────────────────────────────────────────────────────────────────
+Fuentes: datos/originales/anuncios_muestra.csv, OpenStreetMap (ODbL) · Parámetros v1.0 · OSM 2026-11-13T23:03:06Z

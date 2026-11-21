@@ -1,0 +1,26 @@
+FICHA DE MERCADO Y ENTORNO                                               INM-09 · 2026-11-21
+────────────────────────────────────────────────────────────────────────────────────────────
+INMUEBLE   Sin dirección · ditaires, itagui
+           73 m² · Estado: remodelado ("REMODELADA")
+           Ubicación: 6.168608, -75.627492 (precisión: barrio)
+
+MERCADO    Precio/m² de comparables en estado remodelado
+           Mediana $7.058.824   Rango $6.060.606 – $7.661.290
+           Comparables: 9    Dispersión (CV): 0.0639
+           CONFIANZA: ALTA  →  9 comparables (mínimo 5) y coeficiente de variación 6.39% (máximo 15%)
+
+           Contexto de la zona (mediana por estado):
+           remodelado $7.058.824 (n=11) · habitable sin dato (n=0) · por remodelar $5.625.000 (n=5)
+
+ENTORNO    Radio de búsqueda: 800 m   (aproximado)
+           Estación más cercana: Sabaneta (metro) a 1743 m
+           Estaciones en el radio: 0
+           Equipamientos en el radio: educación 13 · salud 3 · parques 1
+                                      abastecimiento 0 · seguridad 3 · cultura 1
+
+NORMA      Tratamiento POT: no_disponible  La capa POT cubre solo: medellin
+
+CALIDAD    Zona: 19 anuncios · 2 duplicados · 17 válidos · inválidos: ninguno
+           Datos faltantes: direccion, coordenadas_exactas, fecha_publicacion_comparables, precios_de_cierre
+────────────────────────────────────────────────────────────────────────────────────────────
+Fuentes: datos/originales/anuncios_muestra.csv, OpenStreetMap (ODbL) · Parámetros v1.0 · OSM 2026-11-13T23:03:06Z

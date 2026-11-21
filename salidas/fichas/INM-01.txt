@@ -1,0 +1,26 @@
+FICHA DE MERCADO Y ENTORNO                                               INM-01 · 2026-11-21
+────────────────────────────────────────────────────────────────────────────────────────────
+INMUEBLE   Cra 36A con Calle 41 · El Salvador, medellin
+           73 m² · Estado: por_remodelar ("Remodelar")
+           Ubicación: 6.238961, -75.560963 (precisión: cruce)
+
+MERCADO    Precio/m² de comparables en estado por_remodelar
+           Mediana $4.555.556   Rango $2.247.191 – $5.214.286
+           Comparables: 10    Dispersión (CV): 0.2221
+           CONFIANZA: MEDIA  →  10 comparables (mínimo 3) y coeficiente de variación 22.21% (máximo 25%)
+
+           Contexto de la zona (mediana por estado):
+           remodelado sin dato (n=0) · habitable $3.909.091 (n=15) · por remodelar $4.708.333 (n=18)
+
+ENTORNO    Radio de búsqueda: 800 m   
+           Estación más cercana: Bicentenario (tranvia) a 605 m
+           Estaciones en el radio: 2
+           Equipamientos en el radio: educación 35 · salud 4 · parques 14
+                                      abastecimiento 7 · seguridad 1 · cultura 4
+
+NORMA      Tratamiento POT: pendiente_capa  Falta el archivo data/geo/pot_tratamientos.geojson
+
+CALIDAD    Zona: 82 anuncios · 28 duplicados · 33 válidos · inválidos: {'estado_sin_clasificar': 20, 'sin_area': 1}
+           Datos faltantes: fecha_publicacion_comparables, precios_de_cierre
+────────────────────────────────────────────────────────────────────────────────────────────
+Fuentes: datos/originales/anuncios_muestra.csv, OpenStreetMap (ODbL) · Parámetros v1.0 · OSM 2026-11-13T23:03:06Z
